@@ -1,0 +1,10 @@
+.. _prerequisites
+
+Prerequisites
+################################
+
+Before you start using the Intel® MLSL, make sure to set up the library environment. Use the command:
+``$ source <install_dir>/intel64/bin/mlslvars.sh``
+This is sets up the environment both for the C/C++ and Python* bindings.
+Here and below, ``<install_dir>`` is the Intel MLSL installation directory, which is ``/opt/intel/mlsl``
+by default.
